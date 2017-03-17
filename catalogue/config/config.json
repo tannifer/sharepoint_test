@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/softwareCatalogue/SoftwareCatalogueWebPart.js",
+      "manifest": "./src/webparts/softwareCatalogue/SoftwareCatalogueWebPart.manifest.json",
+      "outputPath": "./dist/software-catalogue.bundle.js"
+    }
+  ],
+  "externals": {
+    "angular": {
+      "path": "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js",
+      "globalName": "angular"
+    }
+  },
+  "localizedResources": {
+    "softwareCatalogueStrings": "webparts/softwareCatalogue/loc/{locale}.js"
+  }
+}

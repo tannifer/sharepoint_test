@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "catalogue",
+    "framework": "none",
+    "version": "1.0.0",
+    "libraryId": "3b64f2b0-5aa8-4609-9b11-8bde7d20c45b"
+  }
+}

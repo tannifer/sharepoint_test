@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "catalogue-client-side-solution",
+    "id": "3b64f2b0-5aa8-4609-9b11-8bde7d20c45b",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/catalogue.sppkg"
+  }
+}
